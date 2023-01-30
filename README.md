@@ -11,9 +11,8 @@ https://simpleicons.org/
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Son%20Ta-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/son-ta-xuan-hoang-71a933183/)
-[![Mail](https://img.shields.io/badge/gmail-hoangsonui0209@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:hoangsonui0209@gmail.com)
+[![Mail](https://img.shields.io/badge/gmail-hoangsonui0209@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:hoangsonui0209@gmail.com)
 <br>
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Ta Xuan Hoang Son</strong></samp></h2>
 <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3>
